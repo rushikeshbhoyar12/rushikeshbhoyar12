@@ -21,8 +21,11 @@ I am a motivated and detail-oriented B.Tech student in Artificial Intelligence a
 ### 🌐 Food Donation Website
 
 A platform to connect food donors with NGOs and reduce food wastage.
+
 🔗 Live: https://fooddonation-frontend-2xao.onrender.com
+
 💻 GitHub-frontend: https://github.com/rushikeshbhoyar12/Frontend-foodonation.git
+
 💻 GitHub-backend: https://github.com/rushikeshbhoyar12/backend-fooddonation.git
 
 ---
@@ -30,7 +33,9 @@ A platform to connect food donors with NGOs and reduce food wastage.
 ### ✈️ Wanderlust (Travel Platform)
 
 A travel web application for exploring destinations and booking experiences.
+
 🔗 Live: https://wanderlust-1857.onrender.com
+
 💻 GitHub: https://github.com/rushikeshbhoyar12/Wanderlust.git
 
 ---
@@ -48,7 +53,9 @@ A full-stack solar service platform with authentication and booking system.
 ### 🎥 Video Conferencing Web App
 
 A real-time video communication platform supporting multiple users, built using WebRTC and modern web technologies.
+
 🔗 Live: https://videoconference-1-qs5b.onrender.com
+
 💻 GitHub: https://github.com/rushikeshbhoyar12/VideoConference.git
 
 ---
@@ -56,7 +63,9 @@ A real-time video communication platform supporting multiple users, built using 
 ### 👨‍💻 Portfolio Website
 
 Personal portfolio showcasing projects, skills, and experience.
+
 🔗 Live: https://my-portfolio-three-xi-j1i8glv7sn.vercel.app/
+
 💻 GitHub: https://github.com/rushikeshbhoyar12/My_portfolio.git
 
 ---
@@ -64,7 +73,9 @@ Personal portfolio showcasing projects, skills, and experience.
 ### 🔗 BitLinks (URL Shortener)
 
 A URL shortening service with analytics and redirection features.
+
 🔗 Live: https://bitlinks-teal.vercel.app/
+
 💻 GitHub: https://github.com/rushikeshbhoyar12/bitlinks.git
 
 ---
@@ -72,6 +83,7 @@ A URL shortening service with analytics and redirection features.
 ### 🧠 Multimodal Fraud Detection System
 
 Machine learning-based system for detecting fraudulent transactions using multiple data modalities.
+
 💻 GitHub: https://github.com/rushikeshbhoyar12/Multi-Modal-fraud-detection-in-digital-transaction-system.git
 
 

@@ -64,16 +64,6 @@ A real-time video communication platform supporting multiple users, built using 
 
 ---
 
-### 👨‍💻 Portfolio Website
-
-Personal portfolio showcasing projects, skills, and experience.
-
-🔗 Live: https://my-portfolio-three-xi-j1i8glv7sn.vercel.app/
-
-💻 GitHub: https://github.com/rushikeshbhoyar12/My_portfolio.git
-
----
-
 ### 🔗 BitLinks (URL Shortener)
 
 A URL shortening service with analytics and redirection features.

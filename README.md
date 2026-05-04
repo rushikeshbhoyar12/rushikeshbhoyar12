@@ -38,7 +38,7 @@ A travel web application for exploring destinations and booking experiences.
 ### ☀️ SolarArk
 
 A full-stack solar service platform with authentication and booking system.
---
+-
 🔗 Live: https://www.thesolarark.com/
 💻 GitHub:https://github.com/rushikeshbhoyar12/SolarArk.git
 

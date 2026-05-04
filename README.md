@@ -14,7 +14,7 @@ I am a motivated and detail-oriented B.Tech student in Artificial Intelligence a
 
 ---
 [![](https://komarev.com/ghpvc/?username=rushikeshbhoyar12&icon=0&color=0)](https://visitcount.itsvg.in)
-# 🚀 Featured Projects (Live Deployments)
+
 
 # 🚀 Featured Projects (Live Deployments)
 
@@ -22,7 +22,8 @@ I am a motivated and detail-oriented B.Tech student in Artificial Intelligence a
 
 A platform to connect food donors with NGOs and reduce food wastage.
 🔗 Live: https://fooddonation-frontend-2xao.onrender.com
-💻 GitHub: [Add Repo Link]
+💻 GitHub-frontend: https://github.com/rushikeshbhoyar12/Frontend-foodonation.git
+💻 GitHub-backend: https://github.com/rushikeshbhoyar12/backend-fooddonation.git
 
 ---
 
@@ -30,7 +31,7 @@ A platform to connect food donors with NGOs and reduce food wastage.
 
 A travel web application for exploring destinations and booking experiences.
 🔗 Live: https://wanderlust-1857.onrender.com
-💻 GitHub: [Add Repo Link]
+💻 GitHub: https://github.com/rushikeshbhoyar12/Wanderlust.git
 
 ---
 
@@ -38,7 +39,7 @@ A travel web application for exploring destinations and booking experiences.
 
 A full-stack solar service platform with authentication and booking system.
 🔗 Live: https://www.thesolarark.com/
-💻 GitHub: [Add Repo Link]
+💻 GitHub:
 
 ---
 
@@ -46,7 +47,7 @@ A full-stack solar service platform with authentication and booking system.
 
 A real-time video communication platform supporting multiple users, built using WebRTC and modern web technologies.
 🔗 Live: https://videoconference-1-qs5b.onrender.com
-💻 GitHub: [Add Repo Link]
+💻 GitHub: https://github.com/rushikeshbhoyar12/VideoConference.git
 
 ---
 
@@ -54,7 +55,7 @@ A real-time video communication platform supporting multiple users, built using 
 
 Personal portfolio showcasing projects, skills, and experience.
 🔗 Live: https://my-portfolio-three-xi-j1i8glv7sn.vercel.app/
-💻 GitHub: [Add Repo Link]
+💻 GitHub: https://github.com/rushikeshbhoyar12/My_portfolio.git
 
 ---
 
@@ -62,14 +63,14 @@ Personal portfolio showcasing projects, skills, and experience.
 
 A URL shortening service with analytics and redirection features.
 🔗 Live: https://bitlinks-teal.vercel.app/
-💻 GitHub: [Add Repo Link]
+💻 GitHub: https://github.com/rushikeshbhoyar12/bitlinks.git
 
 ---
 
 ### 🧠 Multimodal Fraud Detection System
 
 Machine learning-based system for detecting fraudulent transactions using multiple data modalities.
-💻 GitHub: [Add Repo Link]
+💻 GitHub: https://github.com/rushikeshbhoyar12/Multi-Modal-fraud-detection-in-digital-transaction-system.git
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

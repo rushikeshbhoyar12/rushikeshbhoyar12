@@ -14,5 +14,62 @@ I am a motivated and detail-oriented B.Tech student in Artificial Intelligence a
 
 ---
 [![](https://komarev.com/ghpvc/?username=rushikeshbhoyar12&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🚀 Featured Projects (Live Deployments)
+
+# 🚀 Featured Projects (Live Deployments)
+
+### 🌐 Food Donation Website
+
+A platform to connect food donors with NGOs and reduce food wastage.
+🔗 Live: https://fooddonation-frontend-2xao.onrender.com
+💻 GitHub: [Add Repo Link]
+
+---
+
+### ✈️ Wanderlust (Travel Platform)
+
+A travel web application for exploring destinations and booking experiences.
+🔗 Live: https://wanderlust-1857.onrender.com
+💻 GitHub: [Add Repo Link]
+
+---
+
+### ☀️ SolarArk
+
+A full-stack solar service platform with authentication and booking system.
+🔗 Live: https://www.thesolarark.com/
+💻 GitHub: [Add Repo Link]
+
+---
+
+### 🎥 Video Conferencing Web App
+
+A real-time video communication platform supporting multiple users, built using WebRTC and modern web technologies.
+🔗 Live: https://videoconference-1-qs5b.onrender.com
+💻 GitHub: [Add Repo Link]
+
+---
+
+### 👨‍💻 Portfolio Website
+
+Personal portfolio showcasing projects, skills, and experience.
+🔗 Live: https://my-portfolio-three-xi-j1i8glv7sn.vercel.app/
+💻 GitHub: [Add Repo Link]
+
+---
+
+### 🔗 BitLinks (URL Shortener)
+
+A URL shortening service with analytics and redirection features.
+🔗 Live: https://bitlinks-teal.vercel.app/
+💻 GitHub: [Add Repo Link]
+
+---
+
+### 🧠 Multimodal Fraud Detection System
+
+Machine learning-based system for detecting fraudulent transactions using multiple data modalities.
+💻 GitHub: [Add Repo Link]
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
